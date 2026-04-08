@@ -1,5 +1,8 @@
 ## First i'll do this
 
+-make sure you evaluate mimic
+
+
 ## Evaluation Metrics
 - FROC curve (sensitivity at 0.125, 0.25, 0.5, 1, 2, 4, 8 FP/scan)
 - Competition Performance Metric (CPM) per LUNA16 challenge
